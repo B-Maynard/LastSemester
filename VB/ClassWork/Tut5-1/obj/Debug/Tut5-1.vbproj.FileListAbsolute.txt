@@ -1,0 +1,12 @@
+C:\School\VB\ClassWork\Tut5-1\bin\Debug\Tut5-1.exe.config
+C:\School\VB\ClassWork\Tut5-1\bin\Debug\Tut5-1.exe
+C:\School\VB\ClassWork\Tut5-1\bin\Debug\Tut5-1.pdb
+C:\School\VB\ClassWork\Tut5-1\bin\Debug\Tut5-1.xml
+C:\School\VB\ClassWork\Tut5-1\obj\Debug\Tut5-1.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\Tut5-1\obj\Debug\Tut5_1.Form1.resources
+C:\School\VB\ClassWork\Tut5-1\obj\Debug\Tut5_1.Resources.resources
+C:\School\VB\ClassWork\Tut5-1\obj\Debug\Tut5-1.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\Tut5-1\obj\Debug\Tut5-1.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\Tut5-1\obj\Debug\Tut5-1.exe
+C:\School\VB\ClassWork\Tut5-1\obj\Debug\Tut5-1.xml
+C:\School\VB\ClassWork\Tut5-1\obj\Debug\Tut5-1.pdb

@@ -1,0 +1,37 @@
+page-previous-workouts {
+  .scroll-content {
+    background: #2C3E50;
+    color: #D7DADB;
+  }
+  #header {
+    font-size: 1.4em;
+    text-align: center;
+    padding: 0;
+  }
+  #header-text {
+    margin-top: 5.5%;
+  }
+  #back-arrow {
+    font-size: 3em;
+    float: right;
+    color: #D7DADB;
+  }
+  #top {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
+  }
+  #bottom {
+    text-align: center;
+    font-size: 1.25em;
+  }
+  #clear-workouts {
+    position: fixed;
+    bottom: 2%;
+    left: 75%;
+    width: 20%;
+    border: 5px solid #D7DADB;
+    border-radius: 30px;
+    text-align: center;
+  }
+}

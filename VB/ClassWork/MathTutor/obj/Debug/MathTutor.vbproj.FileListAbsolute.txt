@@ -1,0 +1,12 @@
+C:\School\VB\MathTutor\bin\Debug\MathTutor.exe.config
+C:\School\VB\MathTutor\bin\Debug\MathTutor.exe
+C:\School\VB\MathTutor\bin\Debug\MathTutor.pdb
+C:\School\VB\MathTutor\bin\Debug\MathTutor.xml
+C:\School\VB\MathTutor\obj\Debug\MathTutor.vbprojAssemblyReference.cache
+C:\School\VB\MathTutor\obj\Debug\MathTutor.Form1.resources
+C:\School\VB\MathTutor\obj\Debug\MathTutor.Resources.resources
+C:\School\VB\MathTutor\obj\Debug\MathTutor.vbproj.GenerateResource.cache
+C:\School\VB\MathTutor\obj\Debug\MathTutor.vbproj.CoreCompileInputs.cache
+C:\School\VB\MathTutor\obj\Debug\MathTutor.exe
+C:\School\VB\MathTutor\obj\Debug\MathTutor.xml
+C:\School\VB\MathTutor\obj\Debug\MathTutor.pdb

@@ -1,0 +1,11 @@
+C:\School\VB\CardFlip\bin\Debug\CardFlip.exe.config
+C:\School\VB\CardFlip\bin\Debug\CardFlip.exe
+C:\School\VB\CardFlip\bin\Debug\CardFlip.pdb
+C:\School\VB\CardFlip\bin\Debug\CardFlip.xml
+C:\School\VB\CardFlip\obj\Debug\CardFlip.Form1.resources
+C:\School\VB\CardFlip\obj\Debug\CardFlip.Resources.resources
+C:\School\VB\CardFlip\obj\Debug\CardFlip.vbproj.GenerateResource.cache
+C:\School\VB\CardFlip\obj\Debug\CardFlip.vbproj.CoreCompileInputs.cache
+C:\School\VB\CardFlip\obj\Debug\CardFlip.exe
+C:\School\VB\CardFlip\obj\Debug\CardFlip.xml
+C:\School\VB\CardFlip\obj\Debug\CardFlip.pdb

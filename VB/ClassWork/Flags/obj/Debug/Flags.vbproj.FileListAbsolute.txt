@@ -1,0 +1,12 @@
+C:\School\VB\Flags\bin\Debug\Flags.exe.config
+C:\School\VB\Flags\bin\Debug\Flags.exe
+C:\School\VB\Flags\bin\Debug\Flags.pdb
+C:\School\VB\Flags\bin\Debug\Flags.xml
+C:\School\VB\Flags\obj\Debug\Flags.vbprojAssemblyReference.cache
+C:\School\VB\Flags\obj\Debug\Flags.Form1.resources
+C:\School\VB\Flags\obj\Debug\Flags.Resources.resources
+C:\School\VB\Flags\obj\Debug\Flags.vbproj.GenerateResource.cache
+C:\School\VB\Flags\obj\Debug\Flags.vbproj.CoreCompileInputs.cache
+C:\School\VB\Flags\obj\Debug\Flags.exe
+C:\School\VB\Flags\obj\Debug\Flags.xml
+C:\School\VB\Flags\obj\Debug\Flags.pdb

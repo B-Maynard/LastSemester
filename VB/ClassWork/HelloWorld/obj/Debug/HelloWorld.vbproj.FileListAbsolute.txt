@@ -1,0 +1,12 @@
+C:\School\VB\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\School\VB\HelloWorld\bin\Debug\HelloWorld.exe
+C:\School\VB\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\School\VB\HelloWorld\bin\Debug\HelloWorld.xml
+C:\School\VB\HelloWorld\obj\Debug\HelloWorld.vbprojAssemblyReference.cache
+C:\School\VB\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\School\VB\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.cache
+C:\School\VB\HelloWorld\obj\Debug\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\School\VB\HelloWorld\obj\Debug\HelloWorld.exe
+C:\School\VB\HelloWorld\obj\Debug\HelloWorld.xml
+C:\School\VB\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\School\VB\HelloWorld\obj\Debug\HelloWorld.Form1.resources

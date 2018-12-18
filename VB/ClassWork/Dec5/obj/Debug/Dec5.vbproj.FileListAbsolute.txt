@@ -1,0 +1,12 @@
+C:\School\VB\ClassWork\Dec5\bin\Debug\Dec5.exe.config
+C:\School\VB\ClassWork\Dec5\bin\Debug\Dec5.exe
+C:\School\VB\ClassWork\Dec5\bin\Debug\Dec5.pdb
+C:\School\VB\ClassWork\Dec5\bin\Debug\Dec5.xml
+C:\School\VB\ClassWork\Dec5\obj\Debug\Dec5.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\Dec5\obj\Debug\Dec5.Form1.resources
+C:\School\VB\ClassWork\Dec5\obj\Debug\Dec5.Resources.resources
+C:\School\VB\ClassWork\Dec5\obj\Debug\Dec5.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\Dec5\obj\Debug\Dec5.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\Dec5\obj\Debug\Dec5.exe
+C:\School\VB\ClassWork\Dec5\obj\Debug\Dec5.xml
+C:\School\VB\ClassWork\Dec5\obj\Debug\Dec5.pdb

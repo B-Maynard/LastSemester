@@ -1,0 +1,12 @@
+C:\School\VB\Sep26\bin\Debug\Sep26.exe.config
+C:\School\VB\Sep26\bin\Debug\Sep26.exe
+C:\School\VB\Sep26\bin\Debug\Sep26.pdb
+C:\School\VB\Sep26\bin\Debug\Sep26.xml
+C:\School\VB\Sep26\obj\Debug\Sep26.vbprojAssemblyReference.cache
+C:\School\VB\Sep26\obj\Debug\Sep26.Form1.resources
+C:\School\VB\Sep26\obj\Debug\Sep26.Resources.resources
+C:\School\VB\Sep26\obj\Debug\Sep26.vbproj.GenerateResource.cache
+C:\School\VB\Sep26\obj\Debug\Sep26.vbproj.CoreCompileInputs.cache
+C:\School\VB\Sep26\obj\Debug\Sep26.exe
+C:\School\VB\Sep26\obj\Debug\Sep26.xml
+C:\School\VB\Sep26\obj\Debug\Sep26.pdb

@@ -1,0 +1,12 @@
+C:\School\VB\ClassWork\Oct3\bin\Debug\Oct3.exe.config
+C:\School\VB\ClassWork\Oct3\bin\Debug\Oct3.exe
+C:\School\VB\ClassWork\Oct3\bin\Debug\Oct3.pdb
+C:\School\VB\ClassWork\Oct3\bin\Debug\Oct3.xml
+C:\School\VB\ClassWork\Oct3\obj\Debug\Oct3.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\Oct3\obj\Debug\Oct3.Form1.resources
+C:\School\VB\ClassWork\Oct3\obj\Debug\Oct3.Resources.resources
+C:\School\VB\ClassWork\Oct3\obj\Debug\Oct3.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\Oct3\obj\Debug\Oct3.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\Oct3\obj\Debug\Oct3.exe
+C:\School\VB\ClassWork\Oct3\obj\Debug\Oct3.xml
+C:\School\VB\ClassWork\Oct3\obj\Debug\Oct3.pdb

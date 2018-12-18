@@ -1,0 +1,12 @@
+C:\School\VB\ClassWork\LargerAndSmaller\bin\Debug\LargerAndSmaller.exe.config
+C:\School\VB\ClassWork\LargerAndSmaller\bin\Debug\LargerAndSmaller.exe
+C:\School\VB\ClassWork\LargerAndSmaller\bin\Debug\LargerAndSmaller.pdb
+C:\School\VB\ClassWork\LargerAndSmaller\bin\Debug\LargerAndSmaller.xml
+C:\School\VB\ClassWork\LargerAndSmaller\obj\Debug\LargerAndSmaller.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\LargerAndSmaller\obj\Debug\LargerAndSmaller.Form1.resources
+C:\School\VB\ClassWork\LargerAndSmaller\obj\Debug\LargerAndSmaller.Resources.resources
+C:\School\VB\ClassWork\LargerAndSmaller\obj\Debug\LargerAndSmaller.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\LargerAndSmaller\obj\Debug\LargerAndSmaller.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\LargerAndSmaller\obj\Debug\LargerAndSmaller.exe
+C:\School\VB\ClassWork\LargerAndSmaller\obj\Debug\LargerAndSmaller.xml
+C:\School\VB\ClassWork\LargerAndSmaller\obj\Debug\LargerAndSmaller.pdb

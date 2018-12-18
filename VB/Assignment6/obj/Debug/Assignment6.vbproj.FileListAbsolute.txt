@@ -1,0 +1,12 @@
+C:\School\VB\Assignment6\bin\Debug\Assignment6.exe.config
+C:\School\VB\Assignment6\bin\Debug\Assignment6.exe
+C:\School\VB\Assignment6\bin\Debug\Assignment6.pdb
+C:\School\VB\Assignment6\bin\Debug\Assignment6.xml
+C:\School\VB\Assignment6\obj\Debug\Assignment6.vbprojAssemblyReference.cache
+C:\School\VB\Assignment6\obj\Debug\Assignment6.Form1.resources
+C:\School\VB\Assignment6\obj\Debug\Assignment6.Resources.resources
+C:\School\VB\Assignment6\obj\Debug\Assignment6.vbproj.GenerateResource.cache
+C:\School\VB\Assignment6\obj\Debug\Assignment6.vbproj.CoreCompileInputs.cache
+C:\School\VB\Assignment6\obj\Debug\Assignment6.exe
+C:\School\VB\Assignment6\obj\Debug\Assignment6.xml
+C:\School\VB\Assignment6\obj\Debug\Assignment6.pdb

@@ -1,0 +1,12 @@
+C:\School\VB\LanguageTranslator\bin\Debug\LanguageTranslator.exe.config
+C:\School\VB\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+C:\School\VB\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+C:\School\VB\LanguageTranslator\bin\Debug\LanguageTranslator.xml
+C:\School\VB\LanguageTranslator\obj\Debug\LanguageTranslator.vbprojAssemblyReference.cache
+C:\School\VB\LanguageTranslator\obj\Debug\LanguageTranslator.Form1.resources
+C:\School\VB\LanguageTranslator\obj\Debug\LanguageTranslator.Resources.resources
+C:\School\VB\LanguageTranslator\obj\Debug\LanguageTranslator.vbproj.GenerateResource.cache
+C:\School\VB\LanguageTranslator\obj\Debug\LanguageTranslator.vbproj.CoreCompileInputs.cache
+C:\School\VB\LanguageTranslator\obj\Debug\LanguageTranslator.exe
+C:\School\VB\LanguageTranslator\obj\Debug\LanguageTranslator.xml
+C:\School\VB\LanguageTranslator\obj\Debug\LanguageTranslator.pdb

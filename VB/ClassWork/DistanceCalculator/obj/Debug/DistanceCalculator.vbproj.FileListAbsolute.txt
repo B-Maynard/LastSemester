@@ -1,0 +1,12 @@
+C:\School\VB\ClassWork\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+C:\School\VB\ClassWork\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+C:\School\VB\ClassWork\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+C:\School\VB\ClassWork\DistanceCalculator\bin\Debug\DistanceCalculator.xml
+C:\School\VB\ClassWork\DistanceCalculator\obj\Debug\DistanceCalculator.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\DistanceCalculator\obj\Debug\DistanceCalculator.Form1.resources
+C:\School\VB\ClassWork\DistanceCalculator\obj\Debug\DistanceCalculator.Resources.resources
+C:\School\VB\ClassWork\DistanceCalculator\obj\Debug\DistanceCalculator.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\DistanceCalculator\obj\Debug\DistanceCalculator.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+C:\School\VB\ClassWork\DistanceCalculator\obj\Debug\DistanceCalculator.xml
+C:\School\VB\ClassWork\DistanceCalculator\obj\Debug\DistanceCalculator.pdb

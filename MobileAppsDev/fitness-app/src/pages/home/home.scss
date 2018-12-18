@@ -1,0 +1,66 @@
+page-home {
+  #map {
+    color: #6DBCDB;
+    float: left;
+  }
+  #music-container {
+    position: absolute;
+    top: 96%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #FC4349;
+    width: 100%;
+  }
+  #start-button {
+    z-index: 10;
+    color: #D7DADB;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 4.5em;
+  }
+  #play-icon {
+    color: #D7DADB;
+    position: absolute;
+    top: 45%;
+    left: 52.5%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+  }
+  #stopwatch {
+    opacity: 0;
+    position: absolute;
+    font-size: .5em;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  #previous-workouts {
+    color: #D7DADB;
+    position: absolute;
+    right: 5%;
+    top: 2%;
+  }
+  #distance-icon {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.5em;
+  }
+  #mile-counter {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: .6em;
+  }
+  .scroll-content {
+    background: #2C3E50;
+    color: white;
+    padding: 5%;
+  }
+    font-size: 3.5em;
+    text-align: center;
+}

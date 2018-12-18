@@ -1,0 +1,12 @@
+C:\School\VB\Assignment8\TGAutomotive\bin\Debug\TGAutomotive.exe.config
+C:\School\VB\Assignment8\TGAutomotive\bin\Debug\TGAutomotive.exe
+C:\School\VB\Assignment8\TGAutomotive\bin\Debug\TGAutomotive.pdb
+C:\School\VB\Assignment8\TGAutomotive\bin\Debug\TGAutomotive.xml
+C:\School\VB\Assignment8\TGAutomotive\obj\Debug\TGAutomotive.vbprojAssemblyReference.cache
+C:\School\VB\Assignment8\TGAutomotive\obj\Debug\TGAutomotive.Form1.resources
+C:\School\VB\Assignment8\TGAutomotive\obj\Debug\TGAutomotive.Resources.resources
+C:\School\VB\Assignment8\TGAutomotive\obj\Debug\TGAutomotive.vbproj.GenerateResource.cache
+C:\School\VB\Assignment8\TGAutomotive\obj\Debug\TGAutomotive.vbproj.CoreCompileInputs.cache
+C:\School\VB\Assignment8\TGAutomotive\obj\Debug\TGAutomotive.exe
+C:\School\VB\Assignment8\TGAutomotive\obj\Debug\TGAutomotive.xml
+C:\School\VB\Assignment8\TGAutomotive\obj\Debug\TGAutomotive.pdb

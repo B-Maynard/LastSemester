@@ -1,0 +1,12 @@
+C:\School\VB\ClassWork\Nov14\bin\Debug\Nov14.exe.config
+C:\School\VB\ClassWork\Nov14\bin\Debug\Nov14.exe
+C:\School\VB\ClassWork\Nov14\bin\Debug\Nov14.pdb
+C:\School\VB\ClassWork\Nov14\bin\Debug\Nov14.xml
+C:\School\VB\ClassWork\Nov14\obj\Debug\Nov14.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\Nov14\obj\Debug\Nov14.Form1.resources
+C:\School\VB\ClassWork\Nov14\obj\Debug\Nov14.Resources.resources
+C:\School\VB\ClassWork\Nov14\obj\Debug\Nov14.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\Nov14\obj\Debug\Nov14.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\Nov14\obj\Debug\Nov14.exe
+C:\School\VB\ClassWork\Nov14\obj\Debug\Nov14.xml
+C:\School\VB\ClassWork\Nov14\obj\Debug\Nov14.pdb

@@ -1,0 +1,12 @@
+C:\School\VB\Assignment5\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+C:\School\VB\Assignment5\StadiumSeating\bin\Debug\StadiumSeating.exe
+C:\School\VB\Assignment5\StadiumSeating\bin\Debug\StadiumSeating.pdb
+C:\School\VB\Assignment5\StadiumSeating\bin\Debug\StadiumSeating.xml
+C:\School\VB\Assignment5\StadiumSeating\obj\Debug\StadiumSeating.vbprojAssemblyReference.cache
+C:\School\VB\Assignment5\StadiumSeating\obj\Debug\StadiumSeating.Form1.resources
+C:\School\VB\Assignment5\StadiumSeating\obj\Debug\StadiumSeating.Resources.resources
+C:\School\VB\Assignment5\StadiumSeating\obj\Debug\StadiumSeating.vbproj.GenerateResource.cache
+C:\School\VB\Assignment5\StadiumSeating\obj\Debug\StadiumSeating.vbproj.CoreCompileInputs.cache
+C:\School\VB\Assignment5\StadiumSeating\obj\Debug\StadiumSeating.exe
+C:\School\VB\Assignment5\StadiumSeating\obj\Debug\StadiumSeating.xml
+C:\School\VB\Assignment5\StadiumSeating\obj\Debug\StadiumSeating.pdb

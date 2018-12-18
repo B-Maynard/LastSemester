@@ -1,0 +1,56 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 13\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 13\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 13\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.xml
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbprojResolveAssemblyReference.cache
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Form1.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Resources.resources
+C:\Users\Kip\Google Drive\Shared with David\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbproj.GenerateResource.Cache
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.xml
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbprojResolveAssemblyReference.cache
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Form1.resources
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Resources.resources
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbproj.GenerateResource.Cache
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbproj.CoreCompileInputs.cache
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.exe
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.xml
+U:\CSIT105F17\Textbook Data Files\Solutions Chapters 4 - 6\Chapter 04\Challenge 14\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.pdb
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.xml
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbprojResolveAssemblyReference.cache
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Form1.resources
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Resources.resources
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbproj.GenerateResource.Cache
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.exe
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.xml
+U:\_Fall2018\CSIT105FP18\Lecture Notes\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.pdb
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.xml
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Form1.resources
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass_and_Weight.Resources.resources
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.exe
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.xml
+C:\School\VB\ClassWork\Mass and Weight\Mass and Weight\obj\x86\Debug\Mass and Weight.pdb

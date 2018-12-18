@@ -1,0 +1,33 @@
+page-music {
+  .scroll-content {
+    background: #FC4349;
+  }
+  #back-arrow {
+    color: white;
+    font-size: 4em;
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .controls {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5em;
+  }
+  .display-none {
+    display: none;
+  }
+  #choose-song {
+    color: black;
+    position: fixed;
+    bottom: 2%;
+    left: 75%;
+    width: 20%;
+    border: 5px solid black;
+    border-radius: 30px;
+    text-align: center;
+  }
+}

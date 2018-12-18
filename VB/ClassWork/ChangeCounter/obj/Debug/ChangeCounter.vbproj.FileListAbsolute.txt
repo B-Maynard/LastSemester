@@ -1,0 +1,12 @@
+C:\School\VB\ClassWork\ChangeCounter\bin\Debug\ChangeCounter.exe.config
+C:\School\VB\ClassWork\ChangeCounter\bin\Debug\ChangeCounter.exe
+C:\School\VB\ClassWork\ChangeCounter\bin\Debug\ChangeCounter.pdb
+C:\School\VB\ClassWork\ChangeCounter\bin\Debug\ChangeCounter.xml
+C:\School\VB\ClassWork\ChangeCounter\obj\Debug\ChangeCounter.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\ChangeCounter\obj\Debug\ChangeCounter.Form1.resources
+C:\School\VB\ClassWork\ChangeCounter\obj\Debug\ChangeCounter.Resources.resources
+C:\School\VB\ClassWork\ChangeCounter\obj\Debug\ChangeCounter.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\ChangeCounter\obj\Debug\ChangeCounter.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\ChangeCounter\obj\Debug\ChangeCounter.exe
+C:\School\VB\ClassWork\ChangeCounter\obj\Debug\ChangeCounter.xml
+C:\School\VB\ClassWork\ChangeCounter\obj\Debug\ChangeCounter.pdb

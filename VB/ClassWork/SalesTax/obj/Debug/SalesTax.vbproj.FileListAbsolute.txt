@@ -1,0 +1,12 @@
+C:\School\VB\SalesTax\bin\Debug\SalesTax.exe.config
+C:\School\VB\SalesTax\bin\Debug\SalesTax.exe
+C:\School\VB\SalesTax\bin\Debug\SalesTax.pdb
+C:\School\VB\SalesTax\bin\Debug\SalesTax.xml
+C:\School\VB\SalesTax\obj\Debug\SalesTax.vbprojAssemblyReference.cache
+C:\School\VB\SalesTax\obj\Debug\SalesTax.Form1.resources
+C:\School\VB\SalesTax\obj\Debug\SalesTax.Resources.resources
+C:\School\VB\SalesTax\obj\Debug\SalesTax.vbproj.GenerateResource.cache
+C:\School\VB\SalesTax\obj\Debug\SalesTax.vbproj.CoreCompileInputs.cache
+C:\School\VB\SalesTax\obj\Debug\SalesTax.exe
+C:\School\VB\SalesTax\obj\Debug\SalesTax.xml
+C:\School\VB\SalesTax\obj\Debug\SalesTax.pdb

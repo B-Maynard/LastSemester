@@ -1,0 +1,12 @@
+C:\School\VB\ClassWork\MassAndWeight\bin\Debug\MassAndWeight.exe.config
+C:\School\VB\ClassWork\MassAndWeight\bin\Debug\MassAndWeight.exe
+C:\School\VB\ClassWork\MassAndWeight\bin\Debug\MassAndWeight.pdb
+C:\School\VB\ClassWork\MassAndWeight\bin\Debug\MassAndWeight.xml
+C:\School\VB\ClassWork\MassAndWeight\obj\Debug\MassAndWeight.vbprojAssemblyReference.cache
+C:\School\VB\ClassWork\MassAndWeight\obj\Debug\MassAndWeight.Form1.resources
+C:\School\VB\ClassWork\MassAndWeight\obj\Debug\MassAndWeight.Resources.resources
+C:\School\VB\ClassWork\MassAndWeight\obj\Debug\MassAndWeight.vbproj.GenerateResource.cache
+C:\School\VB\ClassWork\MassAndWeight\obj\Debug\MassAndWeight.vbproj.CoreCompileInputs.cache
+C:\School\VB\ClassWork\MassAndWeight\obj\Debug\MassAndWeight.exe
+C:\School\VB\ClassWork\MassAndWeight\obj\Debug\MassAndWeight.xml
+C:\School\VB\ClassWork\MassAndWeight\obj\Debug\MassAndWeight.pdb

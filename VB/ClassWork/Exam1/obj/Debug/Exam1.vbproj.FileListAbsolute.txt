@@ -1,0 +1,12 @@
+C:\School\VB\Exam1\bin\Debug\Exam1.exe.config
+C:\School\VB\Exam1\bin\Debug\Exam1.exe
+C:\School\VB\Exam1\bin\Debug\Exam1.pdb
+C:\School\VB\Exam1\bin\Debug\Exam1.xml
+C:\School\VB\Exam1\obj\Debug\Exam1.vbprojAssemblyReference.cache
+C:\School\VB\Exam1\obj\Debug\Exam1.Form1.resources
+C:\School\VB\Exam1\obj\Debug\Exam1.Resources.resources
+C:\School\VB\Exam1\obj\Debug\Exam1.vbproj.GenerateResource.cache
+C:\School\VB\Exam1\obj\Debug\Exam1.vbproj.CoreCompileInputs.cache
+C:\School\VB\Exam1\obj\Debug\Exam1.exe
+C:\School\VB\Exam1\obj\Debug\Exam1.xml
+C:\School\VB\Exam1\obj\Debug\Exam1.pdb
